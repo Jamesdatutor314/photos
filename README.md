@@ -42,8 +42,8 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 ## 📊 My Projects 📊
 
 <p align="center">
-  <a href="YOUR_PROJECT_LINK_1" target="_blank">Project 1</a><br>
-  <a href="YOUR_PROJECT_LINK_2" target="_blank">Project 2</a><br>
+  <a href="YOUR_PROJECT_LINK_1" target="_blank">Project 1</a> |
+  <a href="YOUR_PROJECT_LINK_2" target="_blank">Project 2</a> |
   <a href="YOUR_PROJECT_LINK_3" target="_blank">Project 3</a>
 </p>
 
