@@ -47,20 +47,20 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
   <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3" width="150">
 </p>
 
-### 📱 [Statistical Data Analysis]
-**Description:** [This project focuses on analyzing customer behavior for the telecom operator Megaline. The objective is to determine which of two prepaid plans—Surf or Ultimate—generates more revenue to help the commercial department optimize the advertising budget. The analysis is based on a sample of 500 clients from the year 2018.]
+### 📱 Statistical Data Analysis
+**Description:** This project focuses on analyzing customer behavior for the telecom operator Megaline. The objective is to determine which of two prepaid plans—Surf or Ultimate—generates more revenue to help the commercial department optimize the advertising budget. The analysis is based on a sample of 500 clients from the year 2018.
 
-**Tech Stack:** [List technologies used]
+**Tech Stack:** Python,Pandas,NumPy,Matplotlib,SciPy,Jupyter Notebook
 
-### 📱 [Project 2 Name]
-**Description:** [Brief description of what this project does. Add details about the features, technology stack, or what problem it solves.]
+### 📱 Business Profit Prediction Using Multiple Linear Regression
+**Description:** Translated the business profit prediction problem into a solvable machine learning challenge by leveraging economic variables, revealing average profit per shareholder equity, advertising-to-sales ratio, and market shares as the most influential factors to profit by using the R programming language.
 
-**Tech Stack:** [List technologies used]
+**Tech Stack:** R,RStudio,Latex,Jupyter Notebook
 
-### 📱 [Project 3 Name]
-**Description:** [Brief description of what this project does. Add details about the features, technology stack, or what problem it solves.]
+### 📱 NBA Playoffs Outcome Prediction
+**Description:** Performed exploratory data analysis on the NBA playoffs dataset utilizing summary statistics, histograms, scatter, and box plots to identify variable distributions, significance, and correlations. Also developed a KNN model to predict the outcomes of the NBA playoffs.
 
-**Tech Stack:** [List technologies used]
+**Tech Stack:** Python,Pandas,Matplotlib,Seaborn,Statsmodel,Jupyter Notebook
 
 ---
 
