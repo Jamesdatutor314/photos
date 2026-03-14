@@ -102,23 +102,31 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 
 <!-- YouTube Videos will go here -->
 
-<p align="center">
-  <a href="https://www.youtube.com/shorts/LsSkScK5ZnE" target="_blank">
-    <img src="https://i.ytimg.com/vi/LsSkScK5ZnE/hqdefault.jpg" alt="Video Title 1" width="250">
-  </a>
-  <a href="https://www.youtube.com/shorts/0Qf-geSnT4E" target="_blank">
-    <img src="https://i.ytimg.com/vi/0Qf-geSnT4E/hqdefault.jpg" alt="Video Title 2" width="250">
-  </a>
-  <a href="https://youtube.com/shorts/bJeVCoJwD-c?si=bZCHm1HgiAf6QH7M" target="_blank">
-    <img src="https://youtube.com/shorts/bJeVCoJwD-c?si=bZCHm1HgiAf6QH7M/hqdefault.jpg" alt="Video Title 3" width="250">
-  </a>
-</p>
-
-<p align="center">
-  <b>Video Title 1</b> &nbsp;&nbsp;&nbsp;
-  <b>Video Title 2</b> &nbsp;&nbsp;&nbsp;
-  <b>Video Title 3</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/shorts/LsSkScK5ZnE" target="_blank">
+        <img src="https://i.ytimg.com/vi/LsSkScK5ZnE/hqdefault.jpg" alt="Video 1" width="250">
+      </a>
+      <br>
+      <b>Video 1</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/shorts/OQf-geSnT4E" target="_blank">
+        <img src="https://i.ytimg.com/vi/OQf-geSnT4E/hqdefault.jpg" alt="Video 2" width="250">
+      </a>
+      <br>
+      <b>Video 2</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/shorts/bJeVCoJwD-c" target="_blank">
+        <img src="https://i.ytimg.com/vi/bJeVCoJwD-c/hqdefault.jpg" alt="Video 3" width="250">
+      </a>
+      <br>
+      <b>Video 3</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
