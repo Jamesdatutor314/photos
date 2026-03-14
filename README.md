@@ -101,9 +101,15 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 ## 🎬 Latest YouTube Videos
 
 <!-- YouTube Videos will go here -->
-- [Video Title 1](https://www.youtube.com/shorts/LsSkScK5ZnE)
-- [Video Title 2](https://www.youtube.com/shorts/OQf-geSnT4E)
-- [Video Title 3](https://www.youtube.com/shorts/bJeVCoJwD-c)
+
+[![Video Title 1](https://img.youtube.com/vi/LsSkScK5ZnE/hqdefault.jpg)](https://www.youtube.com/shorts/LsSkScK5ZnE)  
+**Video Title 1**
+
+[![Video Title 2](https://img.youtube.com/vi/0Qf-geSnT4E/hqdefault.jpg)](https://www.youtube.com/shorts/0Qf-geSnT4E)  
+**Video Title 2**
+
+[![Video Title 3](https://img.youtube.com/vi/bJeVCoJwD-c/hqdefault.jpg)](https://www.youtube.com/shorts/bJeVCoJwD-c)  
+**Video Title 3**
 
 ---
 
