@@ -8,7 +8,7 @@
 <!-- Greeting Section -->
 ## 🤟🏾 Greetings and salutations. Welcome. 🤟🏾
 
-** Live, laugh, and learn. — Engineering data-driven solutions through the lens of applied mathematics, Python, and data science.**
+**Live, laugh, and learn. — Engineering data-driven solutions through the lens of applied mathematics, Python, and data science.**
 
 ---
 
@@ -16,7 +16,7 @@
 
 Hello World! My name is James, an aspiring Data Scientist on a mission to solve real-world problems with data. For me, it's not just about the numbers but the stories they tell and the impact they can have on people's everyday lives. I love staying busy with learning and helping others. You will usually find me building projects that turn messy data into clear insights. I enjoy tutoring and mentoring others to help make tech feel less intimidating. Lastly, I also enjoy creating videos that bridge the gap between complex math and clean code. My main focus right now is growing as a developer, contributing to the data community, and making sure my work is accessible to everyone, not just the tech-savvy.
 
-📹 Check out my [YouTube channel](YOUR_YOUTUBE_LINK) for short tutorials on math and coding content! 
+📹 Check out my [YouTube channel](https://youtube.com/@anonymous.hacker314?si=7TslqOgwYoXjQXT8) for short tutorials on math and coding content! 
 
 ---
 
