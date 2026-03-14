@@ -42,9 +42,9 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 ## 📊 My Projects 📊
 
 <p align="center">
-  <img src="https://via.placeholder.com/150?text=Project+1" alt="Project 1" width="150">
-  <img src="https://via.placeholder.com/150?text=Project+2" alt="Project 2" width="150">
-  <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3" width="150">
+  <a href="YOUR_PROJECT_LINK_1" target="_blank">Project 1</a><br>
+  <a href="YOUR_PROJECT_LINK_2" target="_blank">Project 2</a><br>
+  <a href="YOUR_PROJECT_LINK_3" target="_blank">Project 3</a>
 </p>
 
 ### 📱 Project 1: Statistical Data Analysis
