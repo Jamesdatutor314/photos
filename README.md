@@ -109,21 +109,21 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
         <img src="https://i.ytimg.com/vi/LsSkScK5ZnE/hqdefault.jpg" alt="Video 1" width="250">
       </a>
       <br>
-      <b>Video 1</b>
+      <b>String Data Type</b>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/OQf-geSnT4E" target="_blank">
         <img src="https://i.ytimg.com/vi/OQf-geSnT4E/hqdefault.jpg" alt="Video 2" width="250">
       </a>
       <br>
-      <b>Video 2</b>
+      <b>Categorical Data</b>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/bJeVCoJwD-c" target="_blank">
         <img src="https://i.ytimg.com/vi/bJeVCoJwD-c/hqdefault.jpg" alt="Video 3" width="250">
       </a>
       <br>
-      <b>Video 3</b>
+      <b>Integer Data Type</b>
     </td>
   </tr>
 </table>
