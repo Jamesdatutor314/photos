@@ -6,7 +6,7 @@
 ---
 
 <!-- Greeting Section -->
-## 👋 Hi, I'm [Your Name]
+## 🤟🏾 James. Greetings and salutations. Welcome. 🤟🏾
 
 **[Your Catchy Tagline Here] — Passionate about [Your Focus Areas]**
 
