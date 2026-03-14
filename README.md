@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="images/header-gh.GIF" alt="Banner" style="width: 100%; max-height: 150px; height: auto; object-fit: cover;">
+  <img src="images/header-gh.GIF" alt="Banner" style="width: 100%; height: 80px; object-fit: cover;">
 </p>
 
 ---
