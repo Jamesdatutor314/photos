@@ -6,21 +6,17 @@
 ---
 
 <!-- Greeting Section -->
-## 🤟🏾 James. Greetings and salutations. Welcome. 🤟🏾
+## 🤟🏾 Greetings and salutations. Welcome. 🤟🏾
 
-**[Your Catchy Tagline Here] — Passionate about [Your Focus Areas]**
+** Live, laugh, and learn. — Engineering data-driven solutions through the lens of applied mathematics, Python, and data science.**
 
 ---
 
-## ✨ About Me
+## 🎲 About Me 🎲
 
-Hello! I'm [Your Name], a [Your Title/Role] passionate about [what you're passionate about].
+Hello World! My name is James, an aspiring Data Scientist on a mission to solve real-world problems with data. For me, it's not just about the numbers but the stories they tell and the impact they can have on people's everyday lives. I love staying busy with learning and helping others. You will usually find me building projects that turn messy data into clear insights. I enjoy tutoring and mentoring others to help make tech feel less intimidating. Lastly, I also enjoy creating videos that bridge the gap between complex math and clean code. My main focus right now is growing as a developer, contributing to the data community, and making sure my work is accessible to everyone, not just the tech-savvy.
 
-I enjoy [activity 1], [activity 2], and [activity 3] — whether that's through [example 1], [example 2], or [example 3].
-
-My focus is on [key focus 1], [key focus 2], and [key focus 3], while crafting [what you create] that people [what they do with it].
-
-📚 Check out my [YouTube channel](YOUR_YOUTUBE_LINK) for tutorials and coding content!
+📹 Check out my [YouTube channel](YOUR_YOUTUBE_LINK) for short tutorials on math and coding content! 
 
 ---
 
