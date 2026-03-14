@@ -47,8 +47,8 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
   <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3" width="150">
 </p>
 
-### 📱 [Project 1 Name]
-**Description:** [Brief description of what this project does. Add details about the features, technology stack, or what problem it solves.]
+### 📱 [Statistical Data Analysis]
+**Description:** [This project focuses on analyzing customer behavior for the telecom operator Megaline. The objective is to determine which of two prepaid plans—Surf or Ultimate—generates more revenue to help the commercial department optimize the advertising budget. The analysis is based on a sample of 500 clients from the year 2018.]
 
 **Tech Stack:** [List technologies used]
 
