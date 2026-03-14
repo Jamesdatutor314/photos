@@ -130,5 +130,5 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 
 ---
 
-**Thank you for stopping by! Feel free to explore my projects and connect with me.**
+**I appreciate you stopping by. Browse my projects and connect with me anytime.**
 
