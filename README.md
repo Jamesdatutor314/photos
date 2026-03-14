@@ -50,35 +50,37 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
   <a href="https://github.com/Jamesdatutor314/Statistical_Analysis_on_Price_of_Pizza-with-python" target="_blank">Project 6</a>
 </p>
 
-### 📱 Project 1: Statistical Data Analysis
+## 📊 My Projects 📊
+
+### <span style="color:red;">📱 Project 1: Statistical Data Analysis</span>
 **Description:** This project focuses on analyzing customer behavior for the telecom operator Megaline. The objective is to determine which of two prepaid plans—Surf or Ultimate—generates more revenue to help the commercial department optimize the advertising budget. The analysis is based on a sample of 500 clients from the year 2018.
 
-**Tech Stack:** Python,Pandas,NumPy,Matplotlib,SciPy,Jupyter Notebook
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, SciPy, Jupyter Notebook
 
-### 📱 Project 2: Software Dev Exploratory Data Analysis
-**Description:** This project focuses on analyzing a video game sales dataset to uncover trends in global and regional sales performance. The dataset includes video games that sold at least 100000 copies globally and features sales across North America, Europe, Japan, and other regions. The main goal is to explore the data using streamlit.
+### <span style="color:blue;">📱 Project 2: Software Dev Exploratory Data Analysis</span>
+**Description:** This project focuses on analyzing a video game sales dataset to uncover trends in global and regional sales performance. The dataset includes video games that sold at least 100000 copies globally and features sales across North America, Europe, Japan, and other regions. The main goal is to explore the data using Streamlit.
 
-**Tech Stack:** Python,Streamlit,Pandas,Numpy,Jupyter Notebook
+**Tech Stack:** Python, Streamlit, Pandas, NumPy, Jupyter Notebook
 
-### 📱 Project 3: Instacart Dataset Analysis
+### <span style="color:green;">📱 Project 3: Instacart Dataset Analysis</span>
 **Description:** This project focuses on analyzing Instacart's dataset to gain insights into customer ordering behavior. The primary goal is to clean, explore, and visualize data to identify patterns, trends, and actionable insights that can inform business decisions.
 
-**Tech Stack:** Python,Pandas,Matplotlib,Numpy,Jupyter Notebook
+**Tech Stack:** Python, Pandas, Matplotlib, NumPy, Jupyter Notebook
 
-### 📱 Project 4: NBA Playoffs Outcome Prediction
+### <span style="color:red;">📱 Project 4: NBA Playoffs Outcome Prediction</span>
 **Description:** Performed exploratory data analysis on the NBA playoffs dataset utilizing summary statistics, histograms, scatter, and box plots to identify variable distributions, significance, and correlations. Also developed a KNN model to predict the outcomes of the NBA playoffs.
 
-**Tech Stack:** Python,Pandas,Matplotlib,Seaborn,Statsmodel,Jupyter Notebook
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Statsmodels, Jupyter Notebook
 
-### 📱 Project 5: Business Profit Prediction Using Multiple Linear Regression
+### <span style="color:blue;">📱 Project 5: Business Profit Prediction Using Multiple Linear Regression</span>
 **Description:** Translated the business profit prediction problem into a solvable machine learning challenge by leveraging economic variables, revealing average profit per shareholder equity, advertising-to-sales ratio, and market shares as the most influential factors to profit by using the R programming language.
 
-**Tech Stack:** R,RStudio,Latex,Jupyter Notebook
+**Tech Stack:** R, RStudio, LaTeX, Jupyter Notebook
 
-### 📱 Project 6: Statistical Analysis on Price of Pizza (Animated Video Presentation)
+### <span style="color:green;">📱 Project 6: Statistical Analysis on Price of Pizza (Animated Video Presentation)</span>
 **Description:** Performed descriptive statistics analysis on pizza dataset utilizing summary statistics, histogram, scatter, line, and box plots to identify variable distributions and correlations. Determined if there was a significant association between the price of pizza and toppings by implementing inference statistics, including the Chi-Square test of Independence. Utilized feature engineering to manipulate and consolidate the raw pizza dataset into a standardized format for statistical analysis.
 
-**Tech Stack:** Python,Pandas,Matplotlib,Seaborn,Statsmodel,Jupyter Notebook
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Statsmodels, Jupyter Notebook
 
 
 ---
