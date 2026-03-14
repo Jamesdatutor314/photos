@@ -74,19 +74,16 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 
 ---
 
-## ✉️ Connect with Me ✉️
+## ✉️ Contact Me ✉️
 
 <p align="center">
-  <a href="YOUR_YOUTUBE_LINK">
+  <a href="https://www.youtube.com/@Anonymous.Hacker314">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="YOUR_WEBSITE_LINK">
-    <img src="https://img.shields.io/badge/Website-000000?logo=globe&logoColor=white" alt="Website">
+  <a href="https://jamesdatutor314.github.io/profile-job/">
+    <img src="https://img.shields.io/badge/Website-000000?logo=globe&logoColor=white" alt="Profile-Portfolio">
   </a>
-  <a href="YOUR_TWITTER_LINK">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="www.linkedin.com/in/james314">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
