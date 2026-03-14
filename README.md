@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="images/header-gh.GIF" alt="Banner" width="100%" height="auto">
+  <img src="images/header-gh.GIF" alt="Banner" width="100%" height="200">
 </p>
 
 ---
