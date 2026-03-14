@@ -90,7 +90,7 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats 📉
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jamesdatutor314&theme=tokyonight&show_icons=true" alt="GitHub Stats">
@@ -98,7 +98,7 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 
 ---
 
-## 🎬 Latest YouTube Videos
+## 🎬 Latest YouTube Videos 🎬
 
 <!-- YouTube Videos will go here -->
 
