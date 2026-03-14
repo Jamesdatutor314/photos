@@ -96,18 +96,14 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
   <img src="https://github-readme-stats.vercel.app/api?username=Jamesdatutor314&theme=tokyonight&show_icons=true" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamesdatutor314&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
 ---
 
 ## 🎬 Latest YouTube Videos
 
 <!-- YouTube Videos will go here -->
-- [Video Title 1](YOUR_VIDEO_LINK_1)
-- [Video Title 2](YOUR_VIDEO_LINK_2)
-- [Video Title 3](YOUR_VIDEO_LINK_3)
+- [Video Title 1](https://www.youtube.com/shorts/LsSkScK5ZnE)
+- [Video Title 2](https://www.youtube.com/shorts/OQf-geSnT4E)
+- [Video Title 3](https://www.youtube.com/shorts/bJeVCoJwD-c)
 
 ---
 
