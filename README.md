@@ -44,7 +44,8 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 <p align="center">
   <a href="YOUR_PROJECT_LINK_1" target="_blank">Project 1</a> |
   <a href="YOUR_PROJECT_LINK_2" target="_blank">Project 2</a> |
-  <a href="YOUR_PROJECT_LINK_3" target="_blank">Project 3</a>
+  <a href="YOUR_PROJECT_LINK_3" target="_blank">Project 3</a> |
+  <a href="YOUR_PROJECT_LINK_3" target="_blank">Project 4</a>
 </p>
 
 ### 📱 Project 1: Statistical Data Analysis
