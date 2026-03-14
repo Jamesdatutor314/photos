@@ -102,14 +102,23 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 
 <!-- YouTube Videos will go here -->
 
-[![Video Title 1](https://img.youtube.com/vi/LsSkScK5ZnE/hqdefault.jpg)](https://www.youtube.com/shorts/LsSkScK5ZnE)  
-**Video Title 1**
+<p align="center">
+  <a href="https://www.youtube.com/shorts/LsSkScK5ZnE" target="_blank">
+    <img src="https://i.ytimg.com/vi/LsSkScK5ZnE/hqdefault.jpg" alt="Video Title 1" width="250">
+  </a>
+  <a href="https://www.youtube.com/shorts/0Qf-geSnT4E" target="_blank">
+    <img src="https://i.ytimg.com/vi/0Qf-geSnT4E/hqdefault.jpg" alt="Video Title 2" width="250">
+  </a>
+  <a href="https://www.youtube.com/shorts/bJeVCoJwD-c" target="_blank">
+    <img src="https://i.ytimg.com/vi/bJeVCoJwD-c/hqdefault.jpg" alt="Video Title 3" width="250">
+  </a>
+</p>
 
-[![Video Title 2](https://img.youtube.com/vi/0Qf-geSnT4E/hqdefault.jpg)](https://www.youtube.com/shorts/0Qf-geSnT4E)  
-**Video Title 2**
-
-[![Video Title 3](https://img.youtube.com/vi/bJeVCoJwD-c/hqdefault.jpg)](https://www.youtube.com/shorts/bJeVCoJwD-c)  
-**Video Title 3**
+<p align="center">
+  <b>Video Title 1</b> &nbsp;&nbsp;&nbsp;
+  <b>Video Title 2</b> &nbsp;&nbsp;&nbsp;
+  <b>Video Title 3</b>
+</p>
 
 ---
 
