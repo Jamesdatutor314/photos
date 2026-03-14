@@ -93,7 +93,11 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jamesdatutor314&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamesdatutor314&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
