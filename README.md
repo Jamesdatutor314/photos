@@ -1,7 +1,7 @@
 <!-- Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jamesdatutor314/photos/main/images/header-gh.GIF" alt="Banner" width="100%">
-</div>
+<p align="center">
+  <img src="images/headergh2.gif" alt="Banner" width="100%">
+</p>
 
 ---
 
