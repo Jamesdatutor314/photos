@@ -110,7 +110,7 @@ Hello World! My name is James, an aspiring Data Scientist on a mission to solve 
     <img src="https://i.ytimg.com/vi/0Qf-geSnT4E/hqdefault.jpg" alt="Video Title 2" width="250">
   </a>
   <a href="https://youtube.com/shorts/bJeVCoJwD-c?si=bZCHm1HgiAf6QH7M" target="_blank">
-    <img src="https://i.ytimg.com/vi/bJeVCoJwD-c/hqdefault.jpg" alt="Video Title 3" width="250">
+    <img src="https://youtube.com/shorts/bJeVCoJwD-c?si=bZCHm1HgiAf6QH7M/hqdefault.jpg" alt="Video Title 3" width="250">
   </a>
 </p>
 
